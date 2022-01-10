@@ -1,0 +1,15 @@
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+}
+
+.home {
+    /* flex: 0 0 200px;  is the same as below*/ 
+    flex-grow: 0;
+    flex-shrink: 2;
+    flex-basis: 200px;
+}
+
+.logout {
+    flex: 2 1 200px;
+}
