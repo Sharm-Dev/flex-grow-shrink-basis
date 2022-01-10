@@ -27,3 +27,20 @@ html, body {
 .container > div:nth-child(3) {
   background-color: #88d8b0;
 }
+
+section{
+    padding: 0 6rem;
+}
+
+h1{
+  text-align: center;
+  font-size: 2em;
+  color:rgb(32, 144, 106);
+}
+
+h2{
+  color:rgb(32, 144, 106);
+}
+p{
+  color:rgb(7, 104, 57);
+}
